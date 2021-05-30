@@ -6,7 +6,7 @@ This notebook is based on the excellent [Kaggle tutorial](https://www.kaggle.com
 
 ![Figure1](logP.png)
 
-Lipophilicity is the ability of a chemical compound to dissolve in non-polar (fatty or oily) solvents. In simple terms, if you had a glass of oil and water (which will separate with one on top of the other as in the figure below), then lipophilicity is the proportion of how much a chemical dissovles in the water portion versus the oil portion. In the figure below there are 3 molecules in water to every 1 molecule in oil. P is 3 and the log P is $\log_{10}{3} = 0.477$.
+[Lipophilicity](https://en.wikipedia.org/wiki/Lipophilicity)  is the ability of a chemical compound to dissolve in non-polar (fatty or oily) solvents. In simple terms, if you had a glass of oil and water (which will separate with one on top of the other as in the figure below), then lipophilicity is the proportion of how much a chemical dissovles in the water portion versus the oil portion. In the figure below there are 3 molecules in water to every 1 molecule in oil. P is 3 and the log P is $`\log_{10}{3} = 0.477`$.
 
 Lipophilicity contributes to the absorption, distribution, metabolism, excretion, and toxicity of a pharmaceutical and contributes to a drug's potency and selectivity.
 
