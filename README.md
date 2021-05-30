@@ -1,6 +1,6 @@
 # Chemistry with TensorFlow (and OpenVINO)
 ## Using TensorFlow to model chemistry problems.
-### An example of predicting lipophilicity from the molecular formula ([SMILES](https://en.wikipedia.org/wiki/Simplified_molecular-input_line-entry_system)).
+### An example of predicting [lipophilicity](https://www.sciencedirect.com/topics/chemistry/lipophilicity) from the molecular formula ([SMILES](https://en.wikipedia.org/wiki/Simplified_molecular-input_line-entry_system)).
 
 This notebook is based on the excellent [Kaggle tutorial](https://www.kaggle.com/vladislavkisin/tutorial-ml-in-chemistry-research-rdkit-mol2vec) from [Vlad Kisin](https://www.kaggle.com/vladislavkisin). In this example, you'll learn how to read a Chemistry datafile and create predictive models of [lipophilicity](https://en.wikipedia.org/wiki/Partition_coefficient#Partition_coefficient_and_log_P). 
 
@@ -8,7 +8,7 @@ This notebook is based on the excellent [Kaggle tutorial](https://www.kaggle.com
 
 [Lipophilicity](https://en.wikipedia.org/wiki/Lipophilicity)  is the ability of a chemical compound to dissolve in non-polar (fatty or oily) solvents. In simple terms, if you had a glass of oil and water (which will separate with one on top of the other as in the figure above), then lipophilicity is the proportion of how much a chemical dissolves in the water portion versus the oil portion. In the figure there are 3 molecules in water to every 1 molecule in oil. P is 3 and the log P is $`\log_{10}{3} = 0.477`$.
 
-Lipophilicity contributes to the absorption, distribution, metabolism, excretion, and toxicity of a pharmaceutical and contributes to a drug's potency and selectivity.
+Lipophilicity contributes to the [absorption, distribution, metabolism, excretion, and toxicity](https://www.sciencedirect.com/topics/chemistry/lipophilicity) of a pharmaceutical and contributes to a drug's potency and selectivity.
 
 ![Figure2](predictions_smiles.png)
 
