@@ -31,3 +31,4 @@ pip install -U tensorflow==2.4.1
 pip install openvino-tensorflow==0.5.0
 conda install scikit-learn
 ```
+Run the jupyter notebook [chemistry_predict_logP_tensorflow.ipynb](chemistry_predict_logP_tensorflow.ipynb)
