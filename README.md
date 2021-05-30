@@ -1,6 +1,6 @@
 # Chemistry with TensorFlow (and OpenVINO)
 ## Using TensorFlow to model chemistry problems.
-### An example of predicting lipophilicity from the molecular formula (SMILES).
+### An example of predicting lipophilicity from the molecular formula ([SMILES](https://en.wikipedia.org/wiki/Simplified_molecular-input_line-entry_system)).
 
 This notebook is based on the excellent [Kaggle tutorial](https://www.kaggle.com/vladislavkisin/tutorial-ml-in-chemistry-research-rdkit-mol2vec) from [Vlad Kisin](https://www.kaggle.com/vladislavkisin). In this example, you'll learn how to read a Chemistry datafile and create predictive models of [lipophilicity](https://en.wikipedia.org/wiki/Partition_coefficient#Partition_coefficient_and_log_P). 
 
