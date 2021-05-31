@@ -30,6 +30,7 @@ wget https://github.com/samoturk/mol2vec_notebooks/blob/master/Notebooks/model_3
 pip install -U tensorflow==2.4.1
 pip install openvino-tensorflow==0.5.0
 conda install scikit-learn
+pip install py3Dmol
 ```
 
 ### Run
