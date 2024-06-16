@@ -35,3 +35,10 @@ pip install py3Dmol
 
 ### Run
 Run the jupyter notebook [chemistry_predict_logP_tensorflow.ipynb](chemistry_predict_logP_tensorflow.ipynb)
+
+## Dataset
+
+The [lipophilicity dataset is available on Kaggle](https://www.kaggle.com/datasets/matthewmasters/chemical-structure-and-logp) 
+and released under the [Public Domain (CC0)](https://creativecommons.org/publicdomain/zero/1.0/). 
+The raw data is in a CSV file with the SMILES notation of the chemical in the first column 
+and the lipophilicity (logP) in the second column.
